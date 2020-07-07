@@ -2,7 +2,7 @@
 # returns the phrase
 
 def parrot(sound)
-  puts #{sound}
+  puts sound
   return sound
 end
 
